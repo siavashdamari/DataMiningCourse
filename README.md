@@ -1,5 +1,5 @@
 # Data Mining Course
-# Winter 2022 | SRBIAU
+## Winter 2022 | SRBIAU
 ## Course information:
 ## Instructor:
 Dr. Amir Hoseein Sharafi | am.hsn.sharafi@gmail.com
